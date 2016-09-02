@@ -1,6 +1,6 @@
 Servlet Sample
 ==============
-
+dded new line
 This project contains a simple Servlet application.
 
 ## Running in Eclipse
